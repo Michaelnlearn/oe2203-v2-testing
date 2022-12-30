@@ -11,3 +11,10 @@
 ## 测试用例来源
 
 - [2203测试报告](https://github.com/YunxiangLuo/oe2203_20220930)
+
+## 测试环境
+
+- QEMU 7.2.0
+- HiFive Unmatched：SiFive Freedom U740 SoC+16GB DDR4+SanDisk Ultra 32GB micro SD
+- VisionFive：JH7100+8GB DDR4+SanDisk Ultra 32GB micro SD
+- D1：C906+2GB DDR4+SanDisk Ultra 32GB micro SD
