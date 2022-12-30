@@ -11,6 +11,7 @@
 ## 测试用例来源
 
 - [2203测试报告](https://github.com/YunxiangLuo/oe2203_20220930)
+- [openEuler RISC-V Issue](https://gitee.com/openeuler/RISC-V/issues?state=open)
 
 ## 测试环境
 
