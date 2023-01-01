@@ -1,4 +1,4 @@
-# 在 Chromium 观看 Bilibili 视频
+# 在 Firefox 观看 Bilibili 视频
 
 ## 操作步骤
 
